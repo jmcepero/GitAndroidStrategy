@@ -4,7 +4,3 @@ package com.example.gitandroidstrategy.feature02
 // Commit 02 agregado
 // Commit 03 agregado
 // Commit 04 agregado
-
-// Feature 03 agregada en submodulo Feature 02
-// Commit 02 de Feature 03
-// Commit 03 de Feature 03
