@@ -8,3 +8,7 @@ package com.example.gitandroidstrategy.feature02
 // Feature 03 agregada en submodulo Feature 02
 // Commit 02 de Feature 03 Fixed
 // Commit 03 de Feature 03 Fixed
+
+// Feature 04 agregada en submodulo Feature 02
+// Commit 02 de Feature 03 Fixed
+// Commit 03 de Feature 03 Fixed
